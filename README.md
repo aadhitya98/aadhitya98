@@ -1,11 +1,11 @@
 
 # Aadhitya Alagappan
 
-**Software Engineer | Backend & Distributed Systems | Full-Stack Development | Applied AI**
+**Software Engineer | Backend & Distributed Systems | Full-Stack Development | Applied AI | Forward Deployed Engineer**
 
 Software Engineer with **5 years of combined professional experience**, including engineering roles at IBM and Analytic Partners. Currently pursuing a Master's degree at Northeastern University.
 
-Experienced in developing enterprise applications, RESTful APIs, distributed systems, and full-stack platforms using Java, Spring Boot, React, Angular, Python, and SQL.
+Experienced in developing enterprise applications, RESTful APIs, distributed systems, and full-stack platforms using Java, Spring Boot, ASP .Net Framework, React, Angular, Python and SQL.
 
 My recent work focuses on distributed architectures, event-driven systems, real-time stream processing, and AI-powered applications.
 
@@ -165,6 +165,8 @@ Explored decentralized digital content distribution and streaming architecture.
 
 ## Connect
 
+- **LinkedIn:** [linkedin.com/in/aadhitya-alagappan-002535129](https://www.linkedin.com/in/aadhitya-alagappan-002535129/)
+- **Medium:** [medium.com/@aadhitya98](https://medium.com/@aadhitya98)
 - **GitHub:** [github.com/aadhitya98](https://github.com/aadhitya98)
 - **Location:** Boston, Massachusetts
 - **Education:** Northeastern University
