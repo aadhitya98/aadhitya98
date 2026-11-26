@@ -1,32 +1,36 @@
 
 # Aadhitya Alagappan
 
-**Software Engineer | Backend & Distributed Systems | Full-Stack Development | Applied AI | Forward Deployed Engineer**
+**Software Engineer | Backend & Distributed Systems | Full-Stack & Mobile Development | Applied AI | Forward Deployed Engineer**
 
 Software Engineer with **5 years of combined professional experience**, including engineering roles at IBM and Analytic Partners. Currently pursuing a Master's degree at Northeastern University.
 
-Experienced in developing enterprise applications, RESTful APIs, distributed systems, and full-stack platforms using Java, Spring Boot, ASP .Net Framework, React, Angular, Python and SQL.
+Experienced in developing enterprise applications, RESTful APIs, distributed systems, full-stack platforms, and native iOS applications using Java, Spring Boot, ASP.NET, React, Angular, Python, Swift, SwiftUI, and SQL.
 
-My recent work focuses on distributed architectures, event-driven systems, real-time stream processing, and AI-powered applications.
+My recent work focuses on distributed architectures, event-driven systems, real-time stream processing, asynchronous programming, native mobile development, and AI-powered applications.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Java, C#, Python, JavaScript, TypeScript, SQL
-- **Backend:** Spring Boot, .NET 8, FastAPI, Node.js, REST APIs
-- **Frontend:** React, Angular, AngularJS, Tailwind CSS
+- **Languages:** Java, C#, Python, Swift, JavaScript, TypeScript, SQL
+- **Backend:** Spring Boot, ASP.NET, .NET 8, FastAPI, Node.js, REST APIs
+- **Frontend:** React, Angular, AngularJS, Tailwind CSS, Material UI, Highcharts
+- **Mobile Development:** iOS, SwiftUI, UIKit Integration, WebKit, WKWebView, URLSession, Swift Concurrency
 - **Distributed Systems:** Apache Kafka, Apache Flink, Redis
 - **Databases:** PostgreSQL, IBM DB2, SQLite
-- **AI:** LangGraph, OpenAI API, RAG, Agentic AI
+- **AI & LLM Engineering:** LangGraph, OpenAI API, RAG, Agentic AI, Prompt Engineering, Recommendation Systems
+- **Asynchronous Programming:** asyncio, HTTPX, async/await, Semaphores, Bounded Concurrency
+- **API Integration:** YouTube Data API, TMDB API, Wikidata, RESTful Web Services
 - **DevOps:** Docker, Jenkins, GitHub Actions, SonarQube, IBM Cloud
-- **Core Concepts:** System Design, Microservices, Concurrency, Event-Driven Architecture, OOP, Design Patterns
+- **Core Concepts:** System Design, Microservices, Concurrency, Event-Driven Architecture, Stream Processing, Transactional Outbox Pattern, OOP, Design Patterns
 
 ---
 
 ## Professional Experience
 
 ### Software Development Co-op | Analytic Partners
+
 **May 2025 – December 2025 | Miami, Florida**
 
 Worked on enterprise marketing analytics and optimization platforms, developing full-stack features that help analysts explore marketing performance, configure models, and interpret complex datasets.
@@ -46,6 +50,7 @@ Worked on enterprise marketing analytics and optimization platforms, developing 
 **Technologies:** React, JavaScript, Python, REST APIs, Highcharts, Material UI, GitHub, Microsoft Teams
 
 ### Software Engineer | IBM
+
 **October 2020 – August 2024 | Bengaluru, India**
 
 Worked on enterprise pricing and financial applications, developing backend services, modernizing web applications, and improving database-driven business workflows.
@@ -67,6 +72,7 @@ Worked on enterprise pricing and financial applications, developing backend serv
 **Technologies:** Java, Spring Boot, Angular, Node.js, REST APIs, IBM DB2, IBM Cloud, Jenkins, SonarQube, SQL
 
 ### Software Engineer Intern | IBM
+
 **January 2020 – October 2020 | Bengaluru, India**
 
 - Contributed to the migration of frontend components from AngularJS to Angular.
@@ -78,6 +84,7 @@ Worked on enterprise pricing and financial applications, developing backend serv
 ## Projects
 
 ### FairStock | Adaptive Inventory Reservation System
+
 **C#, .NET 8, Java, Apache Kafka, Apache Flink, PostgreSQL, Docker**
 
 Designed an event-driven inventory reservation system for high-demand flash sales.
@@ -88,7 +95,23 @@ Designed an event-driven inventory reservation system for high-demand flash sale
 - Integrated Kafka with the Transactional Outbox Pattern for reliable event publishing.
 - Implemented reservation expiration, payment protection, and inventory recovery.
 
+### Hush | AI-Powered Cross-Cultural Music Discovery Platform
+
+**Swift, SwiftUI, Python, FastAPI, OpenAI API, YouTube Data API, asyncio, HTTPX, WebKit**
+
+Designed and developed an AI-powered native iOS application that enables users to discover music across languages and cultures based on their favorite songs, moods, genres, and musical preferences.
+
+- Developed a native iOS application using SwiftUI, featuring declarative UI, reusable components, state-driven navigation, and asynchronous networking.
+- Engineered an AI-powered recommendation engine that generates Music DNA profiles by inferring rhythmic, emotional, stylistic, and instrumental characteristics.
+- Built an asynchronous FastAPI backend integrating OpenAI and YouTube Data API for intelligent music discovery and video verification.
+- Implemented bounded concurrency using asyncio, semaphores, and HTTPX to perform concurrent song verification while controlling external API request pressure.
+- Developed heuristic title and artist matching algorithms to improve recommendation relevance and reduce incorrect video matches.
+- Implemented hash-based duplicate elimination and round-robin language allocation to promote diversity across multilingual playlists.
+- Integrated embedded YouTube playback using WKWebView, featuring interactive playlist queues, song navigation, and AI-generated recommendation explanations.
+- Implemented structured API contracts using Pydantic and Swift Codable for request validation and JSON serialization.
+
 ### CineVisa | Agentic Movie Recommendation System
+
 **Python, LangGraph, OpenAI API, SQLite, TMDB, Wikidata**
 
 Developed an AI-powered recommendation system for cross-cultural movie and series discovery.
@@ -99,6 +122,7 @@ Developed an AI-powered recommendation system for cross-cultural movie and serie
 - Explored multi-agent orchestration and context management.
 
 ### AI-Powered Supplier Evaluation Assistant
+
 **Python, FastAPI, React, Tailwind CSS, OpenAI API, SQL**
 
 Developed an AI-assisted supplier evaluation platform for procurement decision support.
@@ -109,6 +133,7 @@ Developed an AI-assisted supplier evaluation platform for procurement decision s
 - Developed structured supplier scoring and evaluation workflows.
 
 ### CodeWar | Coding Challenge Platform
+
 **Java, Spring Boot, React, Redis, WebSockets**
 
 Developed a full-stack coding platform with interactive programming challenges.
@@ -119,6 +144,7 @@ Developed a full-stack coding platform with interactive programming challenges.
 - Integrated React frontend components with backend services.
 
 ### What's In My History? | Intelligent Browser History Search
+
 **RAG, Semantic Search, Browser Extension**
 
 Developed an AI-powered browser history exploration project.
@@ -136,6 +162,7 @@ Explored prompt evaluation and experimentation techniques for LLM-powered applic
 - Focused on improving consistency and reliability.
 
 ### Raise Hell | Unity Game Development
+
 **Unity, C#**
 
 Developed an interactive game using Unity and object-oriented programming.
@@ -155,11 +182,15 @@ Explored decentralized digital content distribution and streaming architecture.
 ## Engineering Interests
 
 - Distributed Systems and Backend Architecture
-- Real-Time Data Processing
+- Real-Time Data Processing and Stream Processing
 - Event-Driven Systems and Microservices
 - Concurrency and Database Consistency
+- Asynchronous Programming and Performance Optimization
 - Full-Stack Application Development
+- Native iOS and Mobile Application Development
 - Agentic AI and Intelligent Applications
+- AI-Powered Recommendation Systems
+- Forward Deployed Engineering
 
 ---
 
